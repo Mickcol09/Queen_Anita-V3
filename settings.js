@@ -20,7 +20,7 @@ global.packname = "STICKER BY"
 global.author = "QUEEN_ANITA-V3"
 global.creator = "2347043759577@s.whatsapp.net"
 global.xprefix = "."
-global.premium = ["2347043759577"] // Premium User
+global.premium = ["2348155849292"] // Premium User
 global.hituet = 0
 
 //bot sett
